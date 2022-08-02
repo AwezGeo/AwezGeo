@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwezGeo
-- 👀 I’m interested in GIS and open source drone data processing applications
-- 🌱 I’m currently learning drone piloting and drone data processing/GIS
+- 👀 I’m interested in GIS, UAVs and general open source for geospatial projects
+- 🌱 On a coding journey learning python 
 
 
 <!---
